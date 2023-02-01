@@ -18,3 +18,7 @@ analytics*
 .well-known/
 .well-known@
 .well-known*
+
+**/.idea/**
+*.iml
+.idea
