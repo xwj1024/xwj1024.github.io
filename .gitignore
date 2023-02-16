@@ -1,24 +1,6 @@
-# macOS
+# mac
 .DS_Store
 
-# Windows
-Thumbs.db
-
-# phpMyAdmin
-irb-x/
-irb-x@
-irb-x*
-
-# Piwic
-analytics/
-analytics@
-analytics*
-
-# Let's Encrypt
-.well-known/
-.well-known@
-.well-known*
-
-**/.idea/**
+# idea
 *.iml
 .idea
