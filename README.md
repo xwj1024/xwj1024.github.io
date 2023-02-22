@@ -1,3 +1,3 @@
-# Ajin
+<div align="center"># Ajin</div>>
 
-<img src="assets/img/ajin.jpg" width="996" height="996" alt="Ajin"/>
+<div align="center"><img src="assets/img/ajin.jpg" width="200" alt="Ajin"/></div>
