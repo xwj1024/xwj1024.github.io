@@ -1,4 +1,4 @@
-### <div align="center"><img src="assets/img/HelloKitty.gif" alt="Hi" width="50"/>[![Ajin](https://readme-typing-svg.herokuapp.com?font=Xingkai+SC&weight=700&size=30&duration=2000&pause=10000&color=BBBBBB&center=true&width=280&lines=Hi+%F0%9F%91%8B%2C+I'm+Ajin)](https://xwj1024.github.io)</div>
+<div align="center"><img src="assets/img/HelloKitty.gif" alt="Hi" width="50"/>[![Ajin](https://readme-typing-svg.herokuapp.com?font=Xingkai+SC&weight=700&size=30&duration=2000&pause=10000&color=BBBBBB&center=true&width=280&lines=Hi+%F0%9F%91%8B%2C+I'm+Ajin)](https://xwj1024.github.io)</div>
 
 <p align="center">
     <img src="https://img.shields.io/github/stars/xwj1024"/>
